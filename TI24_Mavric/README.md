@@ -31,7 +31,7 @@ repositorio-TI24-Mavric/
 ├── requirements.txt
 ├── data/
 │   ├── raw/
-│   │   └── cardio_train.csv        ← COLOCAR AQUÍ EL DATASET
+│   │   └── cardio_train.csv        
 │   └── processed/
 │       ├── X_train.csv
 │       ├── X_test.csv
